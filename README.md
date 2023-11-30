@@ -2,7 +2,7 @@
 
 <h2>Deprem Tahmini Projesi</h2>
 
-Bu proje buraya basit mantığı ile kodlanmış şekilde yüklenip, [Kaya AI](https://kaya-ai.com/) tarafından arkaplanda en uç noktaya kadar geliştirilmektedir. <br><br>Genel olarak Python kullanılarak geliştirilmiş bir Deprem Tahmini sistemidir. Ana amaç, Türkiye'nin son bir aylık deprem verilerini toplayarak, bu verileri işleyip LSTM (Long Short-Term Memory) ağları kullanarak gelecekteki depremlerin büyüklüklerini tahmin etmektir.
+Bu proje, buraya basit bir mantık ile kodlanmış şekilde yüklenip, [Kaya AI](https://kaya-ai.com/) tarafından arkaplanda en uç noktaya kadar geliştirilmektedir. <br><br>Genel olarak Python kullanılarak geliştirilmiş bir Deprem Tahmini sistemidir. Ana amaç, Türkiye'nin son bir aylık deprem verilerini toplayarak, bu verileri işleyip LSTM (Long Short-Term Memory) ağları kullanarak gelecekteki depremlerin büyüklüklerini tahmin etmektir.
 
 <b>Özellikler</b>
 
