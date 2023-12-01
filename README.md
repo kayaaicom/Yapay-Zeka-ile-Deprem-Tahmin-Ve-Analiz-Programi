@@ -7,6 +7,8 @@
 
 Bu proje, buraya basit bir mantık ile kodlanmış şekilde yüklenip, [Kaya AI](https://kaya-ai.com/) tarafından arkaplanda en uç noktaya kadar geliştirilmektedir. <br><br>Genel olarak Python kullanılarak geliştirilmiş bir Deprem Tahmini sistemidir. Ana amaç, Türkiye'nin son bir aylık deprem verilerini toplayarak, bu verileri işleyip LSTM (Long Short-Term Memory) ağları kullanarak gelecekteki depremlerin büyüklüklerini tahmin etmektir.
 
+Veri kaynakları:  T.C. İçişleri Bakanlığı Afet ve Acil Durum Yönetimi Başkanlığı Deprem Dairesi Başkanlığı
+
 <b>Özellikler</b>
 
 AFAD'ın API'sinden gerçek zamanlı deprem verilerini çeker.<br>
